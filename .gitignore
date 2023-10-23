@@ -23,3 +23,6 @@ TODO.md
 *.njsproj
 *.sln
 *.sw?
+
+# Keys
+.env
